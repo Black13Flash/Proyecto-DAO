@@ -8,13 +8,10 @@ PROYECTO - DAO
 
 *DAO + Singleton + MVC + MySQL + JSTL*
 
+**Fecha de entrega** : Jueves 02 de Junio, 2016
+
 ---
-
-
-
-Fecha de entrega : 31/05/2016
-
-CRUD para:
+##Se debe crear las siguientes tablas
 
  _____________________
 |       CLIENTE       |
