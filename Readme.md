@@ -12,12 +12,12 @@ PROYECTO - DAO
 
 ---
 ##Instrucciones
-**Crear las siguientes tablas**
+**Crear las siguientes tablas :**
 
  _____________________
-|      CLIENTE       |
+|      CLIENTE        |
  ---------------------
-| Rut Varchar(15) PK  |
-| Nombre Varchar(30)  |
-| Edad  int           |
+| Rut *Varchar(15)* **PK**  |
+| Nombre *Varchar(30)*  |
+| Edad  *int*           |
  _____________________
