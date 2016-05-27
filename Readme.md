@@ -11,10 +11,11 @@ PROYECTO - DAO
 **Fecha de entrega** : Jueves 02 de Junio, 2016
 
 ---
-##Se debe crear las siguientes tablas
+##Instrucciones
+**Crear las siguientes tablas**
 
  _____________________
-|       CLIENTE       |
+|      CLIENTE       |
  ---------------------
 | Rut Varchar(15) PK  |
 | Nombre Varchar(30)  |
