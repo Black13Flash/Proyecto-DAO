@@ -1,0 +1,28 @@
+Utilizar:
+
+-DAO
+-Singleton
+-MVC
+-MySQL
+-Jstl
+
+Fecha de entrega : 31/05/2016
+
+CRUD para:
+
+ _____________________
+|       CLIENTE       |
+ ---------------------
+| Rut Varchar(15) PK  |
+| Nombre Varchar(30)  |
+| Edad  int           |
+ _____________________
+ 
+ _____________________
+|       CLIENTE       |
+ ---------------------
+| Rut Varchar(15) PK  |
+| Nombre Varchar(30)  |
+| Edad  int           |
+ _____________________
+ 
